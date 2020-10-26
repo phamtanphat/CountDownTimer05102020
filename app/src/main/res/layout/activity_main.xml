@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"/>
 
     <Button
+        android:id="@+id/buttonStart"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:text="Start"
